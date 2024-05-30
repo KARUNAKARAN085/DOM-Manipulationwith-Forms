@@ -8,3 +8,5 @@
 6. For styles I used CSS and Bootstrap.
 7. UI is responsive for all media screens.
 8. Also Included the test suite in the HTML file.
+
+Deployed application in netlify [DOM Manipulation with Forms](https://dom-manipulation-form-rk.netlify.app)
