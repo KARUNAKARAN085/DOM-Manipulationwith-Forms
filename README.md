@@ -1,4 +1,4 @@
-# DOM Manipulationwith Forms
+# DOM Manipulation with Forms
 
 1. Created a form and table using HTML, CSS, Bootstrap and DOM.
 2. The form contains fields like First name, last name, Email, address, pin code, gender, choice of food (must choose at least 2 out of 5 options ), state, country.
